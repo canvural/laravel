@@ -21,6 +21,9 @@
         "laravel/sail": "^1.0.1",
         "mockery/mockery": "^1.4.2",
         "nunomaduro/collision": "^5.0",
+        "nunomaduro/larastan": "^0.6.11",
+        "phpstan/extension-installer": "^1.1",
+        "phpstan/phpstan": "^0.12.64",
         "phpunit/phpunit": "^9.3.3"
     },
     "config": {
